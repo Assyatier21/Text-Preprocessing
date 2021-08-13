@@ -1,9 +1,3 @@
-/*
- * Nama  : Muhammad Sholeh
- * NIM   : 09021281823172
- * Kelas : Teknik Informatika - 4 Reguler C
- */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.StringTokenizer;
